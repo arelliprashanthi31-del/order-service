@@ -13,5 +13,6 @@ public class Order {
     private Long id;
     private Long productId;
     private int quantity;
+    private String status;
 
 }
